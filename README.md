@@ -47,11 +47,11 @@ Follow the fully detailed project requiremnts in the following file : [Project r
 
 ### HMI_ECU 
 
-![image](![HMI](https://github.com/KarimAmr5/Door-Locker-Security-System/assets/93788982/885efd25-ae25-4472-9914-425f85f65e1e))
+![HMI](https://github.com/KarimAmr5/Door-Locker-Security-System/assets/93788982/885efd25-ae25-4472-9914-425f85f65e1e)
 
 ### Control_ECU
 
-![image](![Control](https://github.com/KarimAmr5/Door-Locker-Security-System/assets/93788982/52f68b11-4ea3-4a70-9493-1faf5c80f0e3))
+![Control](https://github.com/KarimAmr5/Door-Locker-Security-System/assets/93788982/52f68b11-4ea3-4a70-9493-1faf5c80f0e3)
 
 ## Components
 
@@ -61,7 +61,7 @@ Follow the fully detailed project requiremnts in the following file : [Project r
 
 ## Circuit 
 
-![circuit](![Circuit](https://github.com/KarimAmr5/Door-Locker-Security-System/assets/93788982/edecf699-71d2-41f2-9524-23a9d26795c8))
+![Circuit](https://github.com/KarimAmr5/Door-Locker-Security-System/assets/93788982/edecf699-71d2-41f2-9524-23a9d26795c8)
 
 ## How to run
 
